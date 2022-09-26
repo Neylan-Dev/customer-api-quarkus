@@ -1,4 +1,4 @@
-# first-api-quarkus Project
+# customer-api-quarkus Project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
